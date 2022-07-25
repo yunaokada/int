@@ -129,7 +129,7 @@ Let's add an image. Include descriptive text in the square brackets. This text i
   Define terms and link to docs.github.com.
 -->
 
-<details id=3>
+<details id=3 open>
 <summary><h2>Step 3: Add a code example</h2></summary>
 
 _Great job adding an image to the file :tada:_
